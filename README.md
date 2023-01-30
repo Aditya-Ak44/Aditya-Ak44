@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya
 - 👀 I’m interested in Web Development and Devops.
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate to enhance my skills
+- 🌱 I’m currently working on React projects. 
+- 💞️ Hit me up for any collabs on any full stack projects.
 - 📫 How to reach me - LinkedIn - [Sai Aditya Gontu](https://www.linkedin.com/in/sai-aditya-gontu-83082b216/)
 
 ## 🌐 Socials:
