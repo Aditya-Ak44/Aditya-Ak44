@@ -52,8 +52,6 @@ I'm a **Full Stack AI Developer** passionate about building intelligent, scalabl
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Ak44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&icon_color=2E9FFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Ak44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF)
 
