@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack AI Developer** passionate about building intelligent, scalable applications that leverage cutting-edge AI technologies. Currently architecting AI-powered solutions at **NEXT PLC**, where I integrate advanced conversational AI and RAG-based systems into enterprise applications serving 30,000+ employees.
+I'm a **Full Stack AI Developer** passionate about building intelligent, scalable applications that leverage cutting-edge AI technologies. Currently architecting AI-powered solutions for enterprise applications, where I integrate advanced conversational AI and RAG-based systems serving 30,000+ employees.
 
 - 🤖 **AI Focus**: Specializing in Oracle AI Agents, RAG architectures, Vector Databases, and Intelligent Virtual Assistants
 - 🎯 **Enterprise Expertise**: 3+ years building production systems with Oracle Fusion HCM, cloud platforms, and modern web technologies
@@ -73,7 +73,7 @@ const achievements = {
 
 ## 💼 Current Role
 
-**Software Developer - HR Tech @ NEXT PLC**  
+**Software Developer - HR Tech @ Leading UK Retailer**  
 🔹 Building AI-powered enterprise solutions with Oracle Fusion HCM  
 🔹 Researching cutting-edge Oracle AI Agents and Gen AI capabilities  
 🔹 Designing RAG-based policy agents with vector database architectures  
