@@ -62,7 +62,7 @@ I'm a **Full Stack AI Developer** passionate about building intelligent, scalabl
 ```typescript
 const achievements = {
   aiIntegrations: "Deployed AI chatbot serving 30,000+ employees",
-  performanceOptimization: "Reduced system failures by 15%",
+  performanceOptimization: "Reduced SSIS package failures by 15%",
   userEngagement: "Improved engagement by 50% through AI-enhanced UX",
   enterpriseScale: "Managed 45+ change requests in live migration project",
   impactReach: "Built solutions used by 10,000+ enterprise users"
@@ -71,7 +71,7 @@ const achievements = {
 
 ## 💼 Current Role
 
-**Software Developer - HR Tech @ Leading UK Retailer**  
+**Software Developer 
 🔹 Building AI-powered enterprise solutions with Oracle Fusion HCM  
 🔹 Researching cutting-edge Oracle AI Agents and Gen AI capabilities  
 🔹 Designing RAG-based policy agents with vector database architectures  
